@@ -2,8 +2,8 @@
 
 <img  src = "https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">  
 
-- 🔭 Atualmente estou desempregado
-- 🌱 Atualmente estou aprendendo C# e .NET
+- 🔭 Estou procurando emprego
+- 🌱 Atualmente estou aprendendo .NET
 - 📫 Entre em contato:  ZAP (11) 95207-6849
 - 😄 Pronouns: Ele/Dele
 
